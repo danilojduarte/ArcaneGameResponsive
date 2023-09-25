@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Manrope', sans-serif;
+}
+
+:root {
+    --bg-color:#0f151a;
+    --text-color: #ffffff;
+    --main-color: #f53fa1;
+    --other-color: #00ecff;
+
+    --h1-font: 4.7rem;
+}
