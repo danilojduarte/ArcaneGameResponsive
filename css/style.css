@@ -74,5 +74,19 @@ header {
     cursor: pointer;
     display: none;
 }
+/* FIM HEADER */
 
-/* FIMHEADER */
+/* Inicio Home */
+section {
+    padding: 0 12%;
+}
+
+.home {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-image: linear-gradient(5deg, #954a6f 0, #873e6b 16.67%, #742c63 33.33%, #5b1357 50%, #40004c 66.67%, #270045 83.33%, #100043 100%);
+}
